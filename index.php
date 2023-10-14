@@ -4,7 +4,7 @@
     <div class="container overflow-hidden">  
         <div class="owl-carousel owl-theme default-carousel fables-sqr-nav dots-0 wow fadeInUpBig" data-wow-duration="2s">
               <div>
-                  <h1 class="white-color bold-font mt-lg-5 mb-4">CONSULTING SERVICE FOR ALL <br> 
+                  <h1 class="white-color bold-font mt-lg-5 mb-4">CONSULTING SERVICE FOR <br> 
                      <span class="fables-second-text-color">KIND OF BUSINESSES</span>
                   </h1>  
                   <p class="fables-third-text-color mt-3 mb-5 light-font fables-header-slider-details">
